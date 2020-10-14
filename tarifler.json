@@ -1,526 +1,1378 @@
 {
-    "utc": "charset=utf-8",
-    "tarifler":
-    [
-    {
-        "yemekAdi":"Mantarlı Tavuk Sote",
-        "süresi":"20 dk",
-        "kacKisi":"4",
-        "arama":"tavukgöğsü, kültürmantarı, zeytinyağı,domates, yeşilbiber, kırmızıbiber, karabiber, kekik,tuz",
-        "tarif":"Kabuğunu soyduğunuz domatesi küçük küpler halinde doğrayın. Ortadan ikiye kesip, çekirdeklerini çıkardığınız yeşil ve kırmızı biberleri yarım ay şeklinde doğrayın.| Mantarları büyüklüğüne ve isteğinize göre ince dilimler halinde ya da iri parçalar halinde doğrayın | Zeytinyağını tavada kızdırın. Kuşbaşı doğranmış fileto tavuk göğüslerini, suyunu salmaması için yüksek ateşte soteleyin. | Ardından; doğranmış yeşil ve kırmızı biberleri, mantarı ekleyip, soteleme işlemini 10 dakika kadar sürdürün. Son olarak; doğranmış domates, tuz, çekilmiş tane karabiber ve kekik ekleyin. | Domatesler suyunu çekene kadar pişirme işlemini sürdürün. Arzuya göre; ince kıyılmış maydanoz ilavesiyle sıcak olarak servis edin. Sevdiklerinizle paylaşın.",
-        "malzemeler":[
-            {
-                "birim":"Gram",
-                "miktar":"600",
-                "malzemeAdi":"Tavuk Göğsü"
-            },
-            {
-                "birim":"Gram",
-                "miktar":"500",
-                "malzemeAdi":"Kültür Mantarı"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"3",
-                "malzemeAdi":"Zeytinyağı"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Domates"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"2",
-                "malzemeAdi":"Yeşil Biber"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"2",
-                "malzemeAdi":"Kırmızı Biber"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Karabiber"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Kekik"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"tuz"
-            }
-           
-        ]
-    },
-
-    {
-        "yemekAdi":"Karnıyarık",
-        "süresi":"50 dk",
-        "kacKisi":"4",
-        "arama":"Patlıcan, Zeytinyağı, KuruSoğan, Sarımsak, Kıyma, Domates, SivriBiber, Maydanoz, Tuz, Karabiber, Yenibahar, AyçiçekYağı, DomatesSalçası, BiberSalçası, Su",
-        "tarif":"Bol suda yıkadığınız patlıcanları, sap ve uç kısımlarını kestikten sonra alacalı bir şekilde soyun.| Keskin bir bıçak yardımıyla orta kısımlarına çizik attığınız patlıcanları derin bir tavada kızdırdığınız ayçiçek yağında kızartın. Fazla yağlarını bırakması için kağıt havlu serili bir tabağa aldığınız patlıcanları bekletin.| Kıymalı harcını hazırlamak için; kuru soğanı küçük parçalar halinde yemeklik doğrayın. Sarımsağı ince ince kesin.| Kabuğunu soyduğunuz domatesi küp şeklinde doğrayın. Ortadan ikiye kesip, çekirdeklerini çıkardığınız sivri biberleri ince ince dilimleyin.| Zeytinyağını bir tavada kızdırın. Yemeklik doğradığınız soğan ve sarımsakları hafif bir renk alana kadar kavurun.| Lezzet vermesi adına tercih edebileceğiniz orta yağlı kıymayı tavaya aktarın. Kavrulmakta olan soğanlarla birlikte renk alıp, suyunu çekene kadar pişirin.| Aralarda karıştırıp pişirme işlemine devam ederek sırasıyla; doğranmış sivri biber ve domatesleri ilave edin. Tuz, karabiber ve yenibaharı katın.| Ocaktan aldığınız kıymalı iç harca ince ince kıydığınız maydanozu ekleyip, karıştırın. Kızarttığınız patlıcanları, yarık kısımları üstte kalacak şekilde fırın tepsisine alın. Orta kısımlarını bir kaşık yardımıyla açıp, hazırladığınız iç harçtan bol bol ekleyin.| Arzuya göre patlıcanların üzerine domates ve biber dilimleri ekleyin. Sosu için; domates salçası, biber salçası ve sıcak suyu küçük bir kapta karıştırdıktan sonra patlıcanların üzerine değdirmeden fırın tepsisine aktarın.| Karnıyarıkları önceden ısıtılmış 170 derece fırında 30 dakika kadar pişirdikten sonra sıcak olarak arzuya göre üzerine sosundan gezdirerek servis edin. Sevdiklerinizle paylaşın. ",
-        "malzemeler":[
-            {
-                "birim":"Adet",
-                "miktar":"4",
-                "malzemeAdi":"Patlıcan"
-            },
-            {
-                "birim":"Gram",
-                "miktar":"300",
-                "malzemeAdi":"Kıyma"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"3",
-                "malzemeAdi":"Zeytinyağı"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Kuru Soğan"
-            },
-            {
-                "birim":"Diş",
-                "miktar":"3",
-                "malzemeAdi":"Sarımsak"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Domates"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"2",
-                "malzemeAdi":"Sivri Biber"
-            },
-            {
-                "birim":"Demet",
-                "miktar":"1/3",
-                "malzemeAdi":"Maydanoz"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Tuz"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Karabiber"
-            },
-            {
-                "birim":"Çay Bardağı",
-                "miktar":"1/3",
-                "malzemeAdi":"Yenibahar"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"1",
-                "malzemeAdi":"Ayçiçek Yağı"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Domates Salçası"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Biber Salçası"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"1",
-                "malzemeAdi":"Su"
-            }
-           
-        ]
-    },
-    {
-        "yemekAdi":"Orman Kebabı",
-        "süresi":"120 dk",
-        "kacKisi":"6",
-        "arama":"Kuşbaşı, KuruSoğan, Bezelye, Patates, Havuç, KerevizSapı, Domates, BiberSalçası, DomatesSalçası, Etsuyu, Tuz, Karabiber, PulBiber, BeyazUn, AyçiçekYağı, Tereyağ",
-        "tarif":"Kuşbaşı kuzu etlerini hafif una bulayıp, tencereye atmandan önce silkeleyip , sıvı yağı ile iyice kızdırdığınız tencereye atın. Renkleri değişip kokuları çıkana kadar yaklaşık bir 10 dakika soteleyin ve kenara alın.| Aynı tencereye bu sefer, yemeklik doğradığınız soğanları alın biraz soteleyin sonra üzerine tereyağını ekleyin ve sotelemeye devam edin.| Soğanlar hafif ölünce incecik doğradığınız sarımsakları ekleyip sotelemeye devam edin.| Hemen ardından ince ince doğradığınız kereviz saplarını da ekleyin.| Soğanlar iyice ölünce salçaları ekleyin, salçanın hafif kokusu çıkana kadar kavurun ve küçük küçük doğranmış domatesleri ekleyin.| Domatesler yumuşayınca, küp küp doğradığınız patates, havuç ve bezelyeleri de tencereye atıp şöyle bir karıştırın ve etleri de tencereye geri atın.| 3 bardak suyu ekleyin defne yaprağını, tuz karabiberi atın ve kaynayana kadar bekleyin. Kaynamaya başlayınca altını kısın ve tıngırdamaya alın.| Tencerenizin ağzı kapalı bir şekilde ara ara karıştırarak, kısık ateşte 45-50 dakika piştiğinde Orman Kebabınız hazır olacaktır.",
-        "malzemeler":[
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Kuru Soğan"
-            },
-            {
-                "birim":"Kilogram",
-                "miktar":"1",
-                "malzemeAdi":"Kuşbaşı"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"1.5",
-                "malzemeAdi":"Bezelye"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Patates"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Havuç"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"2",
-                "malzemeAdi":"Kereviz Sapı"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"2",
-                "malzemeAdi":"Domates"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Biber Salçası"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Domates Salçası"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"3",
-                "malzemeAdi":"Et Suyu"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Tuz"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Karabiber"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Pul Biber"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Beyaz Un"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Ayçiçek Yağı"
-            }
-           
-        ]
-    },
-    {
-        "yemekAdi":"Kuru Fasulye",
-        "süresi":"60 dk",
-        "kacKisi":"4",
-        "arama":"KuruFasulye, KuruSoğan, AyçiçekYağı, KırmızıBiber, YeşilBiber, BiberSalçası, DomatesSalçası, Su, Tuz, TatlıTozKırmızıBiber",
-        "tarif":"Ayıkladığınız kuru fasulyeleri bir gece önceden ılık suya basın.| Kuru soğanı küçük küpler halinde yemeklik doğrayın. Ortadan ikiye kesip çekirdeklerini çıkardığınız renkli biberleri soğanlarla uyumlu olacak büyüklükte doğrayın.| Ayçiçek yağını derin bir tencerede kızdırın. Kuru soğanları ekleyip hafif bir renk alana kadar kavurun. Doğranmış renkli biberler, biber ve domates salçasını ekleyip kısa süre daha kavurma işlemini sürdürün.| Tatlı toz kırmızı biber ilavesiyle tatlandırın. Önceden suda bekletip suyunu süzdürdüğünüz kuru fasulyeleri ekleyip karıştırın.| Kuru fasulyelerin üzerini az miktarda geçecek kadar su ekleyip kısık ateşte fasulyeler yumuşayana kadar pişirin. Pişirme işleminin sonuna doğru tuz ekleyin.| Kıvam alan kuru fasulyeyi arzuya göre sıcak ya da soğuk olarak sevdiklerinizle paylaşın.",
-        "malzemeler":[
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Kuru Soğan"
-            },
-            {
-                "birim":"Gram",
-                "miktar":"500",
-                "malzemeAdi":"Kuru Fasulye"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"4",
-                "malzemeAdi":"Ayçiçek Yağı"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Kırmızı Biber"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"2",
-                "malzemeAdi":"Yeşil Biber"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Biber Salçası"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Domates Salçası"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"3",
-                "malzemeAdi":"Su"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Tatlı Toz Kırmızı Biber"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Tuz"
-            }
-           
-        ]
-    },
-    {
-        "yemekAdi":"Yeşil Mercimek Yemeği",
-        "süresi":"45 dk",
-        "kacKisi":"4",
-        "arama":"KuruSoğan, ZeytinYağı, KırmızıBiber, YeşilBiber, DomatesSalçası, Su, Tuz, YeşilMercimek",
-        "tarif":"1 su bardağı yeşil mercimek tel süzgeçle suyun altında yıkanır.| 2 yk. zeytinyağı tencereye eklenir ve üzerine küp küp doğranan soğanlar eklenir.| Soğanlar sararıp diriliğini kaybedene kadar pişirilir.1 yk. salça eklenir. Kokusu çıkana kadar pişirilir.| Doğradığımız kırmızı biber,yeşil biber eklenir. (Bu adım isteğe bağlıdır.)| Yıkanan mercimekler yemeğer eklenir. Üstüne 1,5 lt. kadar su eklenir.| İsteğe göre tuz eklenir. Mercimekler yumuşayıncaya kadar pişirilir.",
-        "malzemeler":[
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Kuru Soğan"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"1",
-                "malzemeAdi":"Yeşil Mercimek"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"2",
-                "malzemeAdi":"Zeytin Yağı"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Kırmızı Biber"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Yeşil Biber"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Domates Salçası"
-            },
-            {
-                "birim":"Litre",
-                "miktar":"1.5",
-                "malzemeAdi":"Su"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Tuz"
-            }
-           
-        ]
-    },
-    {
-        "yemekAdi":"Tavuklu Pilav",
-        "süresi":"80 dk",
-        "kacKisi":"5",
-        "arama":"TavukGöğsü, Pirinç, AyçiçekYağı, Tereyağ, TavukSuyu, Tuz, Karabiber",
-        "tarif":"Bol suda yıkadığınız kemikli tavuk göğsünü, derin bir tencereye yerleştirin.| Pilavın yapımında tavuğun haşlama suyundan kullanacağımız için; üzerini geçecek kadar su ilave ettiğiniz tavuk göğsünü, yumuşayana kadar orta ateşte haşlayın.| Pilav yapımına başlamadan önce haşlanan tavuk göğsünün deri ve kemik kısımlarını ayırın. Tel tel ayrılan tavuk etini uzun ince parçalar halinde ditin. Tavuk suyunu kısık ateşte kaynatmaya devam edin.| Ayıkladığınız pirinçleri duru bir su çıkana kadar soğuk suyun altında yıkayın. Suyunun süzülmesi için süzgeçte bekletin.| Ayçiçek yağı ve tereyağını geniş tabanlı bir pilav tenceresinde kızdırın. Suyunu süzdürdüğünüz pirinçleri tencereye alıp orta kısımları şeffaf bir görünüm alana kadar orta ateşte kavurun. Tuzu katın.| Ölçtüğünüz sıcak tavuk suyunu tencereye aktardıktan sonra sadece bir kez karıştırın. Pilavı, kapağını kapattığınız tencerede ve kısık ateşte 10 dakika kadar pişirin.| Suyunu çekmekte olan ditilmiş tavuk etlerinin yarısını pilavın üzerine döşeyin. Kapağını kapattıktan sonra pilavı, 2-3 dakika daha kısık ateşte pişirin.| Pişirme işlemi tamamlanan ve kapağı kapalı şekilde demlenmesi için beklettiğiniz pilavı, tavuk etleriyle harmanlayın. Kalan tavuklara ve taze çekilmiş tane karabibere servisinde yer vererek sevdiklerinizle paylaşın.",
-        "malzemeler":[
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Tavuk Göğsü"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"2",
-                "malzemeAdi":"Pirinç"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"2",
-                "malzemeAdi":"Ayçiçek Yağı"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Tereyağ"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"3",
-                "malzemeAdi":"Tavuk Suyu"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Tuz"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Karabiber"
-            }
-           
-        ]
-    },
-    {
-        "yemekAdi":"Bulgur Pilavı",
-        "süresi":"40 dk",
-        "kacKisi":"4",
-        "arama":"Domates, KuruSoğan, Sarımsak, ZeytinYağı, Tereyağ, Bulgur, DomatesSalçası, Tuz, Karabiber, KırmızıTozBiber, Su",
-        "tarif":"Soğanın kabuklarını soyun ve ince ince doğrayın.| Domatesleri rendeleyin. Sarımsakların da kabuklarını soyarak rendeleyin.| Orta boy bir tencerenin içerisine tereyağı ve zeytinyağını aktarın. Tereyağı eridikten sonra soğanları ve sarımsakları ilave ederek kavurmaya başlayın.| Soğanların hemen ardından da salçayı ilave edin. Üzerine bulguru da ekleyerek güzelce kavurmaya devam edin.| Ardından domatesleri ekleyerek karıştırın. Tuz ve karabiberini de bu sırada ilave edin.| Üzerine su ekleyerek karıştırın ve kapağını kapatarak orta ateşte suyunu çekene kadar pişirmeye bırakın.| Ortalama 10-15 dakika sonra suyunu çeken bulgur pilavının altını kapatın ve oda sıcaklığında 20 dakika demlenmeye bırakın.| Demlenen pilavınızı güzelce karıştırın ve servis edin.",
-        "malzemeler":[
-            {
-                "birim":"Adet",
-                "miktar":"3",
-                "malzemeAdi":"Domates"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"1",
-                "malzemeAdi":"Kuru Soğan"
-            },
-            {
-                "birim":"Diş",
-                "miktar":"2",
-                "malzemeAdi":"Sarımsak"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"2",
-                "malzemeAdi":"Zeytin Yağı"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1.5",
-                "malzemeAdi":"Tereyağ"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"1.5",
-                "malzemeAdi":"Bulgur"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Domates Salçası"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1.5",
-                "malzemeAdi":"Tuz"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Karabiber"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Kırmızı Toz Biber"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"2.5",
-                "malzemeAdi":"Su"
-            }
-           
-        ]
-    },
-    {
-        "yemekAdi":"Zeytinyağlı Biber Dolması",
-        "süresi":"75 dk",
-        "kacKisi":"5",
-        "arama":"DolmalıkBiber, KuruSoğan, ZeytinYağı, Pirinç, Su, DolmalıkFıstık, KuşÜzümü, Tuz, Nane, TozŞeker, Karabiber, Yenibahar",
-        "tarif":"Orta boy dolmalık biberlerin sap kısımlarını yavaşça çıkartın. Çekirdekli iç kısımlarını çıkartıp bol suda yıkayın. Fazla sularını süzdürüp iç kısımlarını hafifçe tuzlayın. Domatesi, pişirme işlemi esnasında dolmaların üzerine kapamak için iri parçalar halinde doğrayın.| Zeytinyağını bir tencerede kızdırın. Kuru soğanları ekleyip dirilikleri gidene kadar orta ateşte kavurmaya başlayın.| Kavrulmakta olan soğanlara dolmalık fıstıkları katıp fıstıklar hafif bir renk alana kadar kavurma işlemini sürdürün. Ardından yıkanmış pirinç, suyu süzülmüş ve durulanmış kuş üzümü, tuz, toz şeker, nane, karabiber ve yenibahar katıp karıştırın.| Sıcak su ekleyip pirinçler suyu çekene kadar kısık ateşte pişirin (Pirinçler hafif diri kalmış olmalı).| Hazırladığınız dolmaları pişirme tenceresine dik bir şekilde dizin. Ayrı bir yerde hazırladığınız zeytinyağlı ve sıcak sulu karışımı dolmaların yarısına gelecek şekilde tencereye aktarın.| Dolmaları, kapağı kapalı tencerede ve kısık ateşte pişirme suyu bitip pirinçler göz göz olana kadar yaklaşık 30-35 dakika pişirin. Ilık ya da soğuk olarak sevdiklerinizle paylaşın.",
-        "malzemeler":[
-            {
-                "birim":"Adet",
-                "miktar":"10",
-                "malzemeAdi":"Dolmalık Biber"
-            },
-            {
-                "birim":"Adet",
-                "miktar":"3",
-                "malzemeAdi":"Kuru Soğan"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"1.5",
-                "malzemeAdi":"Pirinç"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"6",
-                "malzemeAdi":"Zeytin Yağı"
-            },
-            {
-                "birim":"Su Bardağı",
-                "miktar":"0.8",
-                "malzemeAdi":"Su"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"2",
-                "malzemeAdi":"Dolmalık Fıstık"
-            },
-            {
-                "birim":"Yemek Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Kuş Üzümü"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Nane"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1",
-                "malzemeAdi":"Tuz"
-            },
-            {
-                "birim":"Tatlı Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Toz Şeker"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Karabiber"
-            },
-            {
-                "birim":"Çay Kaşığı",
-                "miktar":"1/2",
-                "malzemeAdi":"Yenibahar"
-            }
-           
-        ]
-    }
-
-
-    
-    
-    ]
-}
+      "utc":"charset=utf-8",
+      "tarifler":[
+         {
+            "yemekAdi":"Mantarlı Tavuk Sote",
+            "süresi":"20 dk",
+            "kacKisi":"4",
+            "arama":"tavukgöğsü, kültürmantarı, zeytinyağı,domates, yeşilbiber, kırmızıbiber, karabiber, kekik,tuz",
+            "tarif":"Kabuğunu soyduğunuz domatesi küçük küpler halinde doğrayın. Ortadan ikiye kesip, çekirdeklerini çıkardığınız yeşil ve kırmızı biberleri yarım ay şeklinde doğrayın.| Mantarları büyüklüğüne ve isteğinize göre ince dilimler halinde ya da iri parçalar halinde doğrayın | Zeytinyağını tavada kızdırın. Kuşbaşı doğranmış fileto tavuk göğüslerini, suyunu salmaması için yüksek ateşte soteleyin. | Ardından; doğranmış yeşil ve kırmızı biberleri, mantarı ekleyip, soteleme işlemini 10 dakika kadar sürdürün. Son olarak; doğranmış domates, tuz, çekilmiş tane karabiber ve kekik ekleyin. | Domatesler suyunu çekene kadar pişirme işlemini sürdürün. Arzuya göre; ince kıyılmış maydanoz ilavesiyle sıcak olarak servis edin. Sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Gram",
+                  "miktar":"600",
+                  "malzemeAdi":"Tavuk Göğsü"
+               },
+               {
+                  "birim":"Gram",
+                  "miktar":"500",
+                  "malzemeAdi":"Kültür Mantarı"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"3",
+                  "malzemeAdi":"Zeytinyağı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Yeşil Biber"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Kırmızı Biber"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Kekik"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"tuz"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Karnıyarık",
+            "süresi":"50 dk",
+            "kacKisi":"4",
+            "arama":"Patlıcan, Zeytinyağı, KuruSoğan, Sarımsak, Kıyma, Domates, SivriBiber, Maydanoz, Tuz, Karabiber, Yenibahar, AyçiçekYağı, DomatesSalçası, BiberSalçası, Su",
+            "tarif":"Bol suda yıkadığınız patlıcanları, sap ve uç kısımlarını kestikten sonra alacalı bir şekilde soyun.| Keskin bir bıçak yardımıyla orta kısımlarına çizik attığınız patlıcanları derin bir tavada kızdırdığınız ayçiçek yağında kızartın. Fazla yağlarını bırakması için kağıt havlu serili bir tabağa aldığınız patlıcanları bekletin.| Kıymalı harcını hazırlamak için; kuru soğanı küçük parçalar halinde yemeklik doğrayın. Sarımsağı ince ince kesin.| Kabuğunu soyduğunuz domatesi küp şeklinde doğrayın. Ortadan ikiye kesip, çekirdeklerini çıkardığınız sivri biberleri ince ince dilimleyin.| Zeytinyağını bir tavada kızdırın. Yemeklik doğradığınız soğan ve sarımsakları hafif bir renk alana kadar kavurun.| Lezzet vermesi adına tercih edebileceğiniz orta yağlı kıymayı tavaya aktarın. Kavrulmakta olan soğanlarla birlikte renk alıp, suyunu çekene kadar pişirin.| Aralarda karıştırıp pişirme işlemine devam ederek sırasıyla; doğranmış sivri biber ve domatesleri ilave edin. Tuz, karabiber ve yenibaharı katın.| Ocaktan aldığınız kıymalı iç harca ince ince kıydığınız maydanozu ekleyip, karıştırın. Kızarttığınız patlıcanları, yarık kısımları üstte kalacak şekilde fırın tepsisine alın. Orta kısımlarını bir kaşık yardımıyla açıp, hazırladığınız iç harçtan bol bol ekleyin.| Arzuya göre patlıcanların üzerine domates ve biber dilimleri ekleyin. Sosu için; domates salçası, biber salçası ve sıcak suyu küçük bir kapta karıştırdıktan sonra patlıcanların üzerine değdirmeden fırın tepsisine aktarın.| Karnıyarıkları önceden ısıtılmış 170 derece fırında 30 dakika kadar pişirdikten sonra sıcak olarak arzuya göre üzerine sosundan gezdirerek servis edin. Sevdiklerinizle paylaşın. ",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"4",
+                  "malzemeAdi":"Patlıcan"
+               },
+               {
+                  "birim":"Gram",
+                  "miktar":"300",
+                  "malzemeAdi":"Kıyma"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"3",
+                  "malzemeAdi":"Zeytinyağı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Diş",
+                  "miktar":"3",
+                  "malzemeAdi":"Sarımsak"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Sivri Biber"
+               },
+               {
+                  "birim":"Demet",
+                  "miktar":"1/3",
+                  "malzemeAdi":"Maydanoz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Çay Bardağı",
+                  "miktar":"1/3",
+                  "malzemeAdi":"Yenibahar"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Biber Salçası"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Su"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Orman Kebabı",
+            "süresi":"120 dk",
+            "kacKisi":"6",
+            "arama":"Kuşbaşı, KuruSoğan, Bezelye, Patates, Havuç, KerevizSapı, Domates, BiberSalçası, DomatesSalçası, Etsuyu, Tuz, Karabiber, PulBiber, BeyazUn, AyçiçekYağı, Tereyağ",
+            "tarif":"Kuşbaşı kuzu etlerini hafif una bulayıp, tencereye atmandan önce silkeleyip , sıvı yağı ile iyice kızdırdığınız tencereye atın. Renkleri değişip kokuları çıkana kadar yaklaşık bir 10 dakika soteleyin ve kenara alın.| Aynı tencereye bu sefer, yemeklik doğradığınız soğanları alın biraz soteleyin sonra üzerine tereyağını ekleyin ve sotelemeye devam edin.| Soğanlar hafif ölünce incecik doğradığınız sarımsakları ekleyip sotelemeye devam edin.| Hemen ardından ince ince doğradığınız kereviz saplarını da ekleyin.| Soğanlar iyice ölünce salçaları ekleyin, salçanın hafif kokusu çıkana kadar kavurun ve küçük küçük doğranmış domatesleri ekleyin.| Domatesler yumuşayınca, küp küp doğradığınız patates, havuç ve bezelyeleri de tencereye atıp şöyle bir karıştırın ve etleri de tencereye geri atın.| 3 bardak suyu ekleyin defne yaprağını, tuz karabiberi atın ve kaynayana kadar bekleyin. Kaynamaya başlayınca altını kısın ve tıngırdamaya alın.| Tencerenizin ağzı kapalı bir şekilde ara ara karıştırarak, kısık ateşte 45-50 dakika piştiğinde Orman Kebabınız hazır olacaktır.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Kilogram",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuşbaşı"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Bezelye"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Patates"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Havuç"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Kereviz Sapı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Biber Salçası"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"3",
+                  "malzemeAdi":"Et Suyu"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Pul Biber"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Beyaz Un"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Kuru Fasulye",
+            "süresi":"60 dk",
+            "kacKisi":"4",
+            "arama":"KuruFasulye, KuruSoğan, AyçiçekYağı, KırmızıBiber, YeşilBiber, BiberSalçası, DomatesSalçası, Su, Tuz, TatlıTozKırmızıBiber",
+            "tarif":"Ayıkladığınız kuru fasulyeleri bir gece önceden ılık suya basın.| Kuru soğanı küçük küpler halinde yemeklik doğrayın. Ortadan ikiye kesip çekirdeklerini çıkardığınız renkli biberleri soğanlarla uyumlu olacak büyüklükte doğrayın.| Ayçiçek yağını derin bir tencerede kızdırın. Kuru soğanları ekleyip hafif bir renk alana kadar kavurun. Doğranmış renkli biberler, biber ve domates salçasını ekleyip kısa süre daha kavurma işlemini sürdürün.| Tatlı toz kırmızı biber ilavesiyle tatlandırın. Önceden suda bekletip suyunu süzdürdüğünüz kuru fasulyeleri ekleyip karıştırın.| Kuru fasulyelerin üzerini az miktarda geçecek kadar su ekleyip kısık ateşte fasulyeler yumuşayana kadar pişirin. Pişirme işleminin sonuna doğru tuz ekleyin.| Kıvam alan kuru fasulyeyi arzuya göre sıcak ya da soğuk olarak sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Gram",
+                  "miktar":"500",
+                  "malzemeAdi":"Kuru Fasulye"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"4",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kırmızı Biber"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Yeşil Biber"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Biber Salçası"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"3",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Tatlı Toz Kırmızı Biber"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Yeşil Mercimek Yemeği",
+            "süresi":"45 dk",
+            "kacKisi":"4",
+            "arama":"KuruSoğan, ZeytinYağı, KırmızıBiber, YeşilBiber, DomatesSalçası, Su, Tuz, YeşilMercimek",
+            "tarif":"1 su bardağı yeşil mercimek tel süzgeçle suyun altında yıkanır.| 2 yk. zeytinyağı tencereye eklenir ve üzerine küp küp doğranan soğanlar eklenir.| Soğanlar sararıp diriliğini kaybedene kadar pişirilir.1 yk. salça eklenir. Kokusu çıkana kadar pişirilir.| Doğradığımız kırmızı biber,yeşil biber eklenir. (Bu adım isteğe bağlıdır.)| Yıkanan mercimekler yemeğer eklenir. Üstüne 1,5 lt. kadar su eklenir.| İsteğe göre tuz eklenir. Mercimekler yumuşayıncaya kadar pişirilir.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Yeşil Mercimek"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Zeytin Yağı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kırmızı Biber"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Yeşil Biber"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Litre",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Tavuklu Pilav",
+            "süresi":"80 dk",
+            "kacKisi":"5",
+            "arama":"TavukGöğsü, Pirinç, AyçiçekYağı, Tereyağ, TavukSuyu, Tuz, Karabiber",
+            "tarif":"Bol suda yıkadığınız kemikli tavuk göğsünü, derin bir tencereye yerleştirin.| Pilavın yapımında tavuğun haşlama suyundan kullanacağımız için; üzerini geçecek kadar su ilave ettiğiniz tavuk göğsünü, yumuşayana kadar orta ateşte haşlayın.| Pilav yapımına başlamadan önce haşlanan tavuk göğsünün deri ve kemik kısımlarını ayırın. Tel tel ayrılan tavuk etini uzun ince parçalar halinde ditin. Tavuk suyunu kısık ateşte kaynatmaya devam edin.| Ayıkladığınız pirinçleri duru bir su çıkana kadar soğuk suyun altında yıkayın. Suyunun süzülmesi için süzgeçte bekletin.| Ayçiçek yağı ve tereyağını geniş tabanlı bir pilav tenceresinde kızdırın. Suyunu süzdürdüğünüz pirinçleri tencereye alıp orta kısımları şeffaf bir görünüm alana kadar orta ateşte kavurun. Tuzu katın.| Ölçtüğünüz sıcak tavuk suyunu tencereye aktardıktan sonra sadece bir kez karıştırın. Pilavı, kapağını kapattığınız tencerede ve kısık ateşte 10 dakika kadar pişirin.| Suyunu çekmekte olan ditilmiş tavuk etlerinin yarısını pilavın üzerine döşeyin. Kapağını kapattıktan sonra pilavı, 2-3 dakika daha kısık ateşte pişirin.| Pişirme işlemi tamamlanan ve kapağı kapalı şekilde demlenmesi için beklettiğiniz pilavı, tavuk etleriyle harmanlayın. Kalan tavuklara ve taze çekilmiş tane karabibere servisinde yer vererek sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Tavuk Göğsü"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"2",
+                  "malzemeAdi":"Pirinç"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tereyağ"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"3",
+                  "malzemeAdi":"Tavuk Suyu"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Karabiber"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Bulgur Pilavı",
+            "süresi":"40 dk",
+            "kacKisi":"4",
+            "arama":"Domates, KuruSoğan, Sarımsak, ZeytinYağı, Tereyağ, Bulgur, DomatesSalçası, Tuz, Karabiber, KırmızıTozBiber, Su",
+            "tarif":"Soğanın kabuklarını soyun ve ince ince doğrayın.| Domatesleri rendeleyin. Sarımsakların da kabuklarını soyarak rendeleyin.| Orta boy bir tencerenin içerisine tereyağı ve zeytinyağını aktarın. Tereyağı eridikten sonra soğanları ve sarımsakları ilave ederek kavurmaya başlayın.| Soğanların hemen ardından da salçayı ilave edin. Üzerine bulguru da ekleyerek güzelce kavurmaya devam edin.| Ardından domatesleri ekleyerek karıştırın. Tuz ve karabiberini de bu sırada ilave edin.| Üzerine su ekleyerek karıştırın ve kapağını kapatarak orta ateşte suyunu çekene kadar pişirmeye bırakın.| Ortalama 10-15 dakika sonra suyunu çeken bulgur pilavının altını kapatın ve oda sıcaklığında 20 dakika demlenmeye bırakın.| Demlenen pilavınızı güzelce karıştırın ve servis edin.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"3",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Diş",
+                  "miktar":"2",
+                  "malzemeAdi":"Sarımsak"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Zeytin Yağı"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Tereyağ"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Bulgur"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Kırmızı Toz Biber"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"2.5",
+                  "malzemeAdi":"Su"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Zeytinyağlı Biber Dolması",
+            "süresi":"75 dk",
+            "kacKisi":"5",
+            "arama":"DolmalıkBiber, KuruSoğan, ZeytinYağı, Pirinç, Su, DolmalıkFıstık, KuşÜzümü, Tuz, Nane, TozŞeker, Karabiber, Yenibahar",
+            "tarif":"Orta boy dolmalık biberlerin sap kısımlarını yavaşça çıkartın. Çekirdekli iç kısımlarını çıkartıp bol suda yıkayın. Fazla sularını süzdürüp iç kısımlarını hafifçe tuzlayın. Domatesi, pişirme işlemi esnasında dolmaların üzerine kapamak için iri parçalar halinde doğrayın.| Zeytinyağını bir tencerede kızdırın. Kuru soğanları ekleyip dirilikleri gidene kadar orta ateşte kavurmaya başlayın.| Kavrulmakta olan soğanlara dolmalık fıstıkları katıp fıstıklar hafif bir renk alana kadar kavurma işlemini sürdürün. Ardından yıkanmış pirinç, suyu süzülmüş ve durulanmış kuş üzümü, tuz, toz şeker, nane, karabiber ve yenibahar katıp karıştırın.| Sıcak su ekleyip pirinçler suyu çekene kadar kısık ateşte pişirin (Pirinçler hafif diri kalmış olmalı).| Hazırladığınız dolmaları pişirme tenceresine dik bir şekilde dizin. Ayrı bir yerde hazırladığınız zeytinyağlı ve sıcak sulu karışımı dolmaların yarısına gelecek şekilde tencereye aktarın.| Dolmaları, kapağı kapalı tencerede ve kısık ateşte pişirme suyu bitip pirinçler göz göz olana kadar yaklaşık 30-35 dakika pişirin. Ilık ya da soğuk olarak sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"10",
+                  "malzemeAdi":"Dolmalık Biber"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"3",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Pirinç"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"6",
+                  "malzemeAdi":"Zeytin Yağı"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"0.8",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Dolmalık Fıstık"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuş Üzümü"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Nane"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Toz Şeker"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Yenibahar"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Hünkar Beğendi",
+            "süresi":"120 dk",
+            "kacKisi":"4",
+            "arama":"kuzubut, kurusoğan, sarımsak, zeytinyağı, domates, domatessalçası, bibersalçası, su, tuz, patlıcan, süt, beyazun, tereyağ, kaşar, karabiber",
+            "tarif":"Yağlı kısımları alınmış kuzu but etini kuşbaşı şeklinde doğrayın. Kabuklarını soyduğunuz kuru soğan ve sarımsakları yemeklik doğrayın.| Kabuklarını soyduğunuz domatesleri küp şeklinde doğrayın. Yıkayıp üzerlerini kuruladığınız patlıcanları aralarda ters yüz edip ızgarada pişirin.| Zeytinyağını tencerede kızdırın. Kuru soğan, sarımsak ve kuşbaşı doğranmış kuzu etini yüksek ateşte kavurun.| Kabuklarını soyduktan sonra küp şeklinde doğradığınız domatesleri ilave edin. 4-5 dakika pişirdikten sonra domates ve biber salçası karışımını katın.| Sıcak su eklediğiniz eti, ara ara karıştırarak kısık ateşte 30 dakika kadar pişirin. Pişirme işleminin sonuna doğru tuz ekleyin.| Beğendisi için; ızgarada pişirdiğiniz patlıcanların kabuklarını dikkatli bir şekilde soyun. Küçük parçalar halinde kesin.| Küçük bir tencerede tereyağını eritin. Unu ekleyin ve eriyen tereyağında kavurun. Keskin bir bıçakla kıydığınız ya da zırhtan geçirdiğiniz közlenmiş patlıcanları ve soğuk sütü ilave edin.| Beğendi karışımı kısık ateşte kaynamaya başladığında rendelenmiş kaşar peyniri, tuz ve taze çekilmiş tane karabiberi ekleyin.| Pişirme işlemi tamamlanan patlıcan beğendiyi, servis tabaklarına paylaştırın. Üzerine salçalı ve etli karışımı alıp sıcak olarak servis edin.",
+            "malzemeler":[
+               {
+                  "birim":"Gram",
+                  "miktar":"600",
+                  "malzemeAdi":"Kuzu But"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Diş",
+                  "miktar":"4",
+                  "malzemeAdi":"Sarımsak"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"3",
+                  "malzemeAdi":"Zeytin Yağı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"3",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Biber Salçası"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"2",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"4",
+                  "malzemeAdi":"Patlıcan"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Süt"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Beyaz Un"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tereyağ"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Kaşar"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Karabiber"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Lazanya",
+            "süresi":"60 dk",
+            "kacKisi":"4",
+            "arama":"lazanya, kıyma, ayçiçekyağı, kurusoğan, sarımsak, domates, domatessalçası, sivribiber, havuç, su, kaşar, tuz, karabiber, tereyağ, beyazun, süt,  muskatcevizi",
+            "tarif":"Lazanyanın kıymalı harcını hazırlamak için; kuru soğanları ve kabuğunu soyduğunuz domatesleri küçük küpler halinde doğrayın.| Uzunlamasına keserek çekirdeklerini çıkarttığınız sivri biberleri yarım ay şeklinde kesin. Kabuğunu soyduğunuz havucu rendeleyin. Sarımsakları incecik kıyın.| Ayçiçek yağını bir tavada kızdırın. Doğranmış soğanları 3- 4 dakika kadar kavurun. Orta yağlı kıymayı ekleyin ve suyunu çekene kadar kavurun.| Ardından sırasıyla; kıyılmış sarımsak, rendelenmiş havuç ve sivri biberleri ekleyin. Domates salçasını katın ve karıştırdıktan sonra 1- 2 dakika daha kavurun.| Doğranmış domatesleri, tuz ve karabiberi ekleyin. Son olarak ½ su bardağı sıcak suyu katın. Kıymalı harcı 3- 4 dakika pişirdikten sonra ocaktan alın.| Beşamel sosu hazırlamak için; tereyağını sos tenceresinde eritin. Unu, kokusu çıkıp renk alana kadar kavurun.| Kavrulan una soğuk sütü ekleyin ve bir çırpıcı yardımıyla sürekli karıştırarak koyulaşana kadar pişirin. Karabiber ve rendelenmiş muskat cevizini ekledikten sonra ocaktan alın.| Fırın kabının tabanını ayçiçek yağı ile yağlayın. Lazanya yapraklarını tek sıra halinde dizin. Üzerlerine hazrladığınız beşamel sostan sürün.| Sırasıyla; kıymalı harç ve bir parça rendelenmiş kaşar peyniri ekleyin. Lazanyanın en üst katı için beşamel sos ve rendelenmiş kaşar peyniri ayırdıktan sonra bu işlemi sırasıyla tüm lazanya yaprakları için tekrarlayın.| Kalan beşamel sos ve rendelenmiş kaşar peyniri ile lazanyanın üzerini kaplayın. Önceden ısıtılmış 180 derece fırında 20 dakika pişirin.| Fırından çıkan lazanyayı dilimledikten sonra ılık olarak servis edin. Sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Paket",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Lazanya"
+               },
+               {
+                  "birim":"Gram",
+                  "miktar":"500",
+                  "malzemeAdi":"Kıyma"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"3",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Diş",
+                  "miktar":"2",
+                  "malzemeAdi":"Sarımsak"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Sivri Biber"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Havuç"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Kaşar"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Tereyağ"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"4",
+                  "malzemeAdi":"Beyaz Un"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"2",
+                  "malzemeAdi":"Süt"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1/3",
+                  "malzemeAdi":"Muskat Cevizi"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Bezelye Yemeği",
+            "süresi":"40 dk",
+            "kacKisi":"4",
+            "arama":"sıvıyağ, kurusoğan, bezelye, salça, tuz, havuç, patates",
+            "tarif":"Soğanları küp küp yemeklik doğrayın. (Patates ve havuç eklemek istiyorsanız onları da küp küp doğrayın)| Bir tencereye sıvıyağı alın ve üstüne doğranan soğanları ekleyin. Soğanları rengi değişene kadar kızartın.| Salçayı ekleyin. Kokusu çıkana kadar ara ara karıştırın.| Yıkanan bezelyeleri ekleyin.| Üzerine yemeği biraz geçecek kadar sıcak su ekleyin. Tuzunu ekleyin. Bezelyeler yumuşayana kadar pişmeye bırakın.",
+            "malzemeler":[
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Sıvı Yağ"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Kilogram",
+                  "miktar":"1",
+                  "malzemeAdi":"Bezelye"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Salça"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Havuç"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Patates"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Domatesli Pilav",
+            "süresi":"50 dk",
+            "kacKisi":"4",
+            "arama":"domates, tereyağ, zeytinyağı, pirinç, sıcaketsuyu, limon, tozşeker, tuz",
+            "tarif":"Ortadan ikiye kesip uç kısımlarını aldığınız domatesleri rendenin ince kısmıyla rendeleyin.| Tereyağını, yanmaz-yapışmaz tabanlı geniş bir pilav tenceresinde zeytinyağı ilavesiyle kızdırın.| Rendelenmiş domatesleri ekleyip kısık ateşte kavurmaya başlayın. Bol suda yıkadığınız pirinçlerin fazla suyunu süzdürün.| Kavrulmakta olan rendelenmiş domateslere pirinçleri ekleyip şeffaf bir görünüm alana kadar kavurma işlemini sürdürün.| Toz şeker, tuz ve limon suyunu ekleyip karıştırın. Sıcak et suyunu ekleyip tahta bir kaşıkla sadece bir kez karıştırın.| Kapağını kapattığınız pilav tenceresinde, kısık ateşte 12-15 dakika kadar pişirin. Kağıt havlu örtüp kapağını kapattığınız pilavı demlenmeye alın.| Demini alan pilavı sadece bir kez harmanlayıp servis tabaklarına paylaştırın. Sıcağı sıcağına bekletmeden servis edin.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"3",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Tereyağ"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Zeytinyağı"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Pirinç"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Sıcak Et Suyu"
+               },
+               {
+                  "birim":"Damla",
+                  "miktar":"3",
+                  "malzemeAdi":"Limon"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Toz Şeker"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Kadınbudu Köfte",
+            "süresi":"50 dk",
+            "kacKisi":"4",
+            "arama":"kıyma, yumurta, kurusoğan, sarımsak, pirinç, tuz, karabiber, kimyon, beyazun, ayçiçekyağı, galetaunu, yumurta",
+            "tarif":"1/2 su bardağı pirinci tuz ve su ile birlikte hafif yumuşayana kadar kaynatın. Çok yumuşamamasına dikkat edin.| Bir tavada zeytinyağı ile soğanları yumuşayana kadar kavurun.| Sarımsakları da ekleyip kavurmaya devam edin.| Kıymanın yarısını soğan ve sarımsakların içerisine alın ve suyunu salıp, çekene kadar kavurun. Pişen kıymaları ocaktan alın ve soğumaya bırakın.| Geniş bir kasede çiğ kıyma, un, haşlanmış pirinç, pişip soğuyan soğanlı kıyma harcını, yumurta ve tüm baharatları bir araya getirip yoğurun.| Yoğurduktan sonra üzerine streç çekip 30 dakika buzdolabında bekletin.| Bekleyen harçtan yumurtadan biraz daha büyük parçalar koparıp yuvarlayarak şekil verin.| Şekil verilmiş köfteleri önce galeta ununa, sonra yumurtaya batırıp kızgın yağda kızartın.| Servis ederken püre ve sotelenmiş sebzeler ile servis edebilirsiniz, afiyet olsun!",
+            "malzemeler":[
+               {
+                  "birim":"Gram",
+                  "miktar":"500",
+                  "malzemeAdi":"Kıyma"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Yumurta"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Diş",
+                  "miktar":"2",
+                  "malzemeAdi":"Sarımsak"
+               },
+               {
+                  "birim":"Çay Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Pirinç"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Kimyon"
+               },
+               {
+                  "birim":"Çay Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Beyaz Un"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Galeta Unu"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Yumurta"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Tas Kebabı",
+            "süresi":"70 dk",
+            "kacKisi":"4",
+            "arama":"danaeti, ayçiçekyağı, tereyağ, kurusoğan, sarımsak, beyazun, havuç, patates, domatessalçası, sıcaksu, tuz, tanekarabiber",
+            "tarif":"Yıkadığınız kuşbaşı dana etlerinin suyunu süzdürün ve kağıt havlu yardımıyla kurulayın.| Mümkünse döküm bir tencerede ayçiçek yağını kızdırın, tereyağını ekledikten sonra etleri tencereye alın. Yüksek ateşte, kapağı kapalı tencerede suyunu çekene kadar pişirin.| Kuru soğanı yemeklik doğrayın. Kabuğunu soyduğunuz havucu halka halka, patatesleri iri küpler halinde kesin.| Yemeklik doğradığınız kuru soğan ve bütün haldeki sarımsakları kavrulmakta olan etlerle birlikte hafif bir renk alana kadar kavurun.| Bu aşamada ekleyeceğiniz unu, kokusu çıkana kadar yaklaşık 2-3 dakika etlerle birlikte kavurun. Salçayı ekleyin ve karıştırın.| Ardından sıcak suyu tencereye aktarın. Doğranmış havuç ve patatesleri ilave edin. Tane karabiber ve tuzu katın.| Kapağını kapattığınız tencerede, kısık ateşte 30 dakika kadar pişirin. Kıvamlı bir sos halini alan suyu ve sebzelerle birlikte pişen eti, sıcak olarak bekletmeden servis edin. Bayram sofranızda sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Gram",
+                  "miktar":"800",
+                  "malzemeAdi":"Dana Eti"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tereyağ"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Diş",
+                  "miktar":"3",
+                  "malzemeAdi":"Sarımsak"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Beyaz Un"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Havuç"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Patates"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"3",
+                  "malzemeAdi":"Sıcak Su"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"4",
+                  "malzemeAdi":"Tane Karabiber"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Arnavut Ciğeri",
+            "süresi":"30",
+            "kacKisi":"4",
+            "arama":"kuzuciğeri, beyazun, tuz, karabiber, kırmızısoğan, maydanoz, sumak, sumak, kimyon, ayçiçekyağı",
+            "tarif":"Üzerinde bulunan zarı ayıkladığınız kuzu ciğerini, kuşbaşı büyüklüğünde kesin. Derin bir süzgece aldığınız doğranmış kuzu ciğerlerini kanının süzülmesi için bekletin.| Kızartmanın fazla yağ içmemesi için yağın ısınmış olması oldukça önemli. Derin bir tencereye aktardığınız ayçiçek yağını, orta ateşte kızdırın.| Tuz ve karabiberle çeşnilendirdiğiniz kuzu ciğerleri, geniş bir tabağa aldığınız unla harmanlayın.| Fazla ununu silkelediğiniz ciğerleri, kızgın ve derin yağda renk alana kadar kızartın.| Aynı işlemi tekrarlayarak birkaç partide kızarttığınız ciğerleri kapağı kapalı bir kapta dinlendirin.| Maydanozu incecik kesin. Kırmızı soğanı ince ince piyazlık doğrayın. Arzuya göre tuzla ovduktan sonra duruladığınız soğanları sumak ve kıyılmış maydanozla harmanlayın.| Servis tabağına aldığınız Arnavut ciğerini kimyon ilavesi ve sumaklı soğan salatası eşliğinde servis edin. Sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Gram",
+                  "miktar":"600",
+                  "malzemeAdi":"Kuzu Ciğeri"
+               },
+               {
+                  "birim":"Çay Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Beyaz Un"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kırmızı Soğan"
+               },
+               {
+                  "birim":"Demet",
+                  "miktar":"1",
+                  "malzemeAdi":"Maydanoz"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Sumak"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Kimyon"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"2",
+                  "malzemeAdi":"Ayçiçek Yağı"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Semizotu Yemeği",
+            "süresi":"20 dk",
+            "kacKisi":"4",
+            "arama":"semizotu, kurusoğan, bulgur, salça, sıvıyağ, su, tuz",
+            "tarif":"Semizotu yemeğimiz için ilk olarak soğanı soyalım ve yemeklik doğrayalım.| Uygun bir tencereye sıvı yağı alarak ocağı açalım. Soğanları ilave ederek pembeleşene kadar kavuralım.| Soğanlar pembeleştikten sonra salçayı ilave edelim ve güzelce ayıkladığımız yıkayıp suyunu süzdüğümüz semizotlarını ilave edelim.| Semizotlarını 2-3 dk kadar kavurduktan sonra bulguru ekleyelim.| Yaklaşık 1 su bardağı kadar sıcak su ilave edelim ve tuzunu ayarlayarak tencerenin kapağını kapatalım.| Semizotu yemeğimizi kısık ateşte bulgurlar şişip yumuşayana kadar pişirelim.| Pişen semizotu yemeğimizi isteğe bağlı olarak sarımsaklı ya da sarımsaksız yoğurt ile tüketebilirsiniz.",
+            "malzemeler":[
+               {
+                  "birim":"Demet",
+                  "miktar":"2",
+                  "malzemeAdi":"Semiz Otu"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Bulgur"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Salça"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Sıvı Yağ"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Tutam",
+                  "miktar":"2",
+                  "malzemeAdi":"Tuz"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Terbiyeli Sulu Köfte",
+            "süresi":"45",
+            "kacKisi":"4",
+            "arama":"kıyma, pirinç, kurusoğan, maydanoz, havuç, patates, yumurtasarısı, limonsuyu, kimyon, karabiber, tuz",
+            "tarif":"Pirinci bol suyla yıkayıp süzün ve derince bir kaba alın. Üzerine rendelenmiş kuru soğanı, ince doğranmış maydanozu, kıymayı, tuzu, karabiberi ve kimyonu ilave edip güzelce yoğurun.| Yoğurduğunuz köfte harcından misket büyüklüğünde olacak şekilde minik köfteler yapın ve bu köfteleri zeminine un serptiğiniz bir tepside yuvarlayın. Köftelerin her tarafı unla kaplanmış olsun.| Havucu ve patatesi soyup, küp küp doğrayın.| Geniş bir tencerede 6 su bardağı suyu bir miktar tuz ilavesi ile birlikte kaynatın. Su kaynamaya başlayınca köfteleri ve doğradığınız sebzeleri suya ilave edin.| Tencerenin altını kısın ve sebzeler yumuşayıncaya dek yaklaşık 20 dakika pişirin.| \tAyrı bir kasede yumurta sarısı ve 1 tatlı kaşığı limon suyunu çırpın. Karışıma tencerede pişen köftelerin suyundan bir miktar ekleyip güzelce karıştırın. Terbiyeniz hazır.| Hazırladığınız terbiyeyi tencerede pişmeye devam eden köftelere yavaş yavaş ilave edin, birkaç dakika daha pişirdikten sonra altını kapatın.| Doğranmış maydanozla süsleyerek sıcak servis edin.",
+            "malzemeler":[
+               {
+                  "birim":"Gram",
+                  "miktar":"250",
+                  "malzemeAdi":"Kıyma"
+               },
+               {
+                  "birim":"Çay Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Pirinç"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Demet",
+                  "miktar":"1",
+                  "malzemeAdi":"Maydanoz"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Havuç"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Patates"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Yumurta Sarısı"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Limon Suyu"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Kimyon"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Karabiber"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Bamya",
+            "süresi":"50 dk",
+            "kacKisi":"4",
+            "arama":"bamya, kurusoğan, domates, zeytinyağı, domatessalçası, bibersalçası, limonsuyu, sıcaksu, pulbiber, tuz, küpkesmeşeker ",
+            "tarif":"Kabuğunu soyduğunuz kuru soğan ve domatesleri küçük küpler halinde doğrayın.| Bir bıçak yardımıyla bamyaların baş kısımlarını çok derine inmeden temizleyin. Ayıkladığınız bamyaları iyice yıkayın.| Orta boy bir tencerenin içerisine zeytinyağı, salça ve soğanları alın. Soğanlar hafif pembeleşene kadar kavurun.| Ardından küp küp doğradığınız domatesleri ilave edin. Karıştırıp, kapağını kapatın.| Domatesler hafif erimeye başladığında bamyalarınızı ilave edin. Yavaşça karıştırın, tuz, limon suyu ve şekeri ekleyin.| Malzemelerin üzerine son olarak su ilave edin ve orta ateşte pişmeye bırakın.| Piştikten sonra sıcak ya da soğuk bir biçimde servis edin. Afiyet olsun.",
+            "malzemeler":[
+               {
+                  "birim":"Gram",
+                  "miktar":"600",
+                  "malzemeAdi":"Bamya"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"3",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"5",
+                  "malzemeAdi":"Zeytin Yağı"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Biber Salçası"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Limon Suyu"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Sıcak Su"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Pul Biber"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Küp Kesme Şeker"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Barbunya",
+            "süresi":"60 dk",
+            "kacKisi":"5",
+            "arama":"barbunya, zeytinyağı, kurusoğan, sarımsak, patates, havuç, domates, sıcaksu, domatessalçası, tozşeker, tuz, maydanoz, limonsuyu",
+            "tarif":"Kabuklarını ayıklayıp bol suda yıkadığınız barbunyaları üzerini geçecek kadar su ilavesiyle orta ateşte 10 dakika kadar haşlayın.| Kuru soğanı rendenin ince tarafıyla rendeleyin. Sarımsakları ayıklayın, lezzet vermesi için bütün olarak bırakın. Kabuğunu soyduğunuz patates ve havuçları küçük küpler halinde doğrayın. Ortadan ikiye kesip uç kısımlarını aldığınız domatesleri rendeleyin.| Zeytinyağını derin bir tencerede kızdırın. Rendelenmiş soğan ve sarımsakları katıp hafif bir renk alana kadar soteleyin. Patates ve havuç küplerini katıp kısa süre kavurun.| Hafif renk vermesi için domates salçası ve rendelenmiş domatesleri katıp kısık ateşte pişmeye bırakın.| Haşlanmış barbunyayı süzüp tencereye alın. Toz şeker, tuz ve sıcak suyu ekledikten sonra kısık ateşte barbunyalar yumuşayana kadar pişirin.| Ocaktan aldığınız barbunyayı kapağı kapalı tencerede oda ısısına gelene kadar dinlendirin.| Sonrasında derin bir servis kabına aktardığınız barbunyayı; arzuya göre üzerine gezdirdiğiniz sızma zeytinyağı, taze sıkılmış limon suyu, incecik kıyılmış maydanoz eşliğinde ılık ya da soğuk olarak sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Kilogram",
+                  "miktar":"1",
+                  "malzemeAdi":"Barbunya"
+               },
+               {
+                  "birim":"Çay Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Zeytinyağı"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Diş",
+                  "miktar":"2",
+                  "malzemeAdi":"Sarımsak"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Patates"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Havuç"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Domates"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"2",
+                  "malzemeAdi":"Sıcak Su"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Domates Salçası"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Toz Şeker"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Demet",
+                  "miktar":"1",
+                  "malzemeAdi":"Maydanoz"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Limon Suyu"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Zeytinyağlı Enginar",
+            "süresi":"60 dk",
+            "kacKisi":"8",
+            "arama":"enginar, limonsuyu, havuç, patates, bezelye, kurusoğan, limonsuyu, su, zeytinyağı, tozşeker, tuz, dereotu",
+            "tarif":"Sap ve yaprak kısımlarını dikkatli bir şekilde temizlediğiniz taze enginarları, kararmamaları için; 1 adet taze sıkılmış limon suyu kattığınız derin suda bekletin.| Kabuklarını soyduğunuz patates ve havuçları küçük küpler halinde doğrayın. Bol suda yıkadıktan sonra küçük bir tencerede, orta ateşte 5 dakika kadar haşlayın.| Kuru soğanı küçük parçalar halinde yemeklik doğradıktan sonra oda sıcaklığında çözdürdüğünüz dondurulmuş bezelyelerle karıştırın.| Suyunu süzdürdüğünüz haşlanmış sebzeleri, kısa bir süre soğuttuktan sonra bezelyeli karışımla harmanlayın.| Limonlu suda bekleyen enginarları, çukur kısımları üstte kalacak şekilde geniş tabanlı bir tencereye yerleştirin.| Enginarların orta kısımlarını hazırladığınız sebze karışımıyla doldurun.| Taze sıkılmış portakal suyu, içme suyu ve kalan 1 adet limon suyunu; toz şeker, zeytinyağı ve tuz ilavesiyle ayrı bir kapta karıştırın.| Hazırladığınız zeytinyağlı karışımı enginarların üzerine gezdirdikten sonra kapağını kapattığınız tencerede ve kısık ateşte 45-50 dakika kadar pişirin.| Soğuyan enginarları dikkatli bir şekilde servis tabaklarına aldıktan sonra arzuya göre incecik kıyılmış dereotu ilavesiyle sevdiklerinizle paylaşın.",
+            "malzemeler":[
+               {
+                  "birim":"Adet",
+                  "miktar":"8",
+                  "malzemeAdi":"Enginar"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Limon Suyu"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Havuç"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"2",
+                  "malzemeAdi":"Patates"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1",
+                  "malzemeAdi":"Bezelye"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Limon Suyu"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"6",
+                  "malzemeAdi":"Zeytinyağı"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Toz Şeker"
+               },
+               {
+                  "birim":"Çay Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Demet",
+                  "miktar":"1/2",
+                  "malzemeAdi":"Dereotu"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Çi Börek",
+            "süresi":"30 dk",
+            "kacKisi":"6",
+            "arama":"beyazun, su, sirke, tuz, sıvıyağ, kıyma, kurusoğan, tuz, su",
+            "tarif":"Derin bir kabın içerisine unu aktarın. Sirke ve tuzu ekleyin. Azar azar suyunu ekleyerek güzelce yoğurun. Tarifteki suyun 1 bardağı hamur kalanı ise harç içindir.| Yoğurduğunuz hamurun üzerini nemli bir bez yardımıyla kapatın.| Soğanı çok ince ve minik bir şekilde doğrayın.| Derin bir kabın içerisine kıyma, tuz, soğanı alın ve güzelce yoğurun.| Ardından suyu ilave edin ve yoğurun. Sulu bir harç elde edin.| Dinlenen hamurdan ceviz büyüklüğünde bezeler elde edin ve unlanmış tezgahın üzerinde orta büyüklükteki bir tabak boyutunda açın.| Bir kısmına iç harçtan koyun ve kapatın. Kenarlarına güzelce bastırın.| Derin bir tavaya yağı alın ve kızdırın. Kızan yağa börekleri alın ve kızartın. Çıkarıp fazla yağını süzdürerek afiyetle tüketin.",
+            "malzemeler":[
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"3",
+                  "malzemeAdi":"Beyaz Un"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"1.5",
+                  "malzemeAdi":"Su"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Sirke"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               },
+               {
+                  "birim":"Su Bardağı",
+                  "miktar":"0.8",
+                  "malzemeAdi":"Sıvı Yağ"
+               },
+               {
+                  "birim":"Gram",
+                  "miktar":"300",
+                  "malzemeAdi":"Kıyma"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Tatlı Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               }
+            ]
+         },
+         {
+            "yemekAdi":"Semizotu Borani",
+            "süresi":"25 dk",
+            "kacKisi":"4",
+            "arama":"semizotu, kurusoğan, zeytinyağı, pirinç, yoğurt, tuz",
+            "tarif":"Semiz otunun kök kısımlarını ve kötü yapraklarını temizleyin. Bol suyla birkaç kez yıkayın.. Semiz otlarını doğrayın, süzgeçte suyunun akması için bırakın.| Soğanı yemeklik doğrayın. Tencereye zeytin yağını ve soğanları koyup, soğanların rengi değişene kadar kavurun.| Üzerine doğradığınız semizotlarını koyun.| Pirinci ve tuzunu ilave edip semiz otu suyunu salana kadar kadar karıştırın.| Az miktarda sıcak su ilave edin.| Kaynamaya başlayınca ocağı kısık ateşe getirip pirinçler ve semiz otunun sap kısımları yumuşayıncaya kadar pişirin.| Servis tabaklarına alıp yanında yoğurtla servis yapın…\n",
+            "malzemeler":[
+               {
+                  "birim":"Demet",
+                  "miktar":"1",
+                  "malzemeAdi":"Semiz Otu"
+               },
+               {
+                  "birim":"Adet",
+                  "miktar":"1",
+                  "malzemeAdi":"Kuru Soğan"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"2",
+                  "malzemeAdi":"Zeytinyağı"
+               },
+               {
+                  "birim":"Yemek Kaşığı",
+                  "miktar":"1",
+                  "malzemeAdi":"Pirinç"
+               },
+               {
+                  "birim":"Kase",
+                  "miktar":"1",
+                  "malzemeAdi":"Yoğurt"
+               },
+               {
+                  "birim":"Tutam",
+                  "miktar":"1",
+                  "malzemeAdi":"Tuz"
+               }
+            ]
+         }
+      ]
+   }

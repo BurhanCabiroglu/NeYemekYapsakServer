@@ -51,7 +51,7 @@ app.get("/all/apikey=:id",(req,res)=>{
     }
     res.contentType('application/json');
     
-    res.send(JSON.stringify({sonucSayısı:"hepsi",tarifler},null,2))
+    res.send(JSON.stringify({sonucSayısı:tarifler.tarifler.lenght",tarifler},null,2))
 })
 
 app.post("/add",(req,res)=>{

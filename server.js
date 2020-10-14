@@ -50,7 +50,7 @@ app.get("/all/apikey=:id",(req,res)=>{
         res.status(404).json({"Authentication Failed! Please Please Verification Api Key":404})
     }
     res.contentType('application/json');
-    var ctrn=tarifler.tarifler.lenght+0
+    var ctrn=tarifler.tarifler.lenght.toString()
     res.send(JSON.stringify({sonucSayısı: ctrn+" sonuc bulundu",tarifler},null,2))
 })
 

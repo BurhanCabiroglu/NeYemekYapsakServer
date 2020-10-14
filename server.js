@@ -50,8 +50,8 @@ app.get("/all/apikey=:id",(req,res)=>{
         res.status(404).json({"Authentication Failed! Please Please Verification Api Key":404})
     }
     res.contentType('application/json');
-    
-    res.send(JSON.stringify({sonucSayısı:tarifler.tarifler.lenght,tarifler},null,2))
+    var ctrn=tarifler.tarifler.lenght
+    res.send(JSON.stringify({sonucSayısı:ctrn,tarifler},null,2))
 })
 
 app.post("/add",(req,res)=>{

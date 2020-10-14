@@ -36,7 +36,9 @@ app.get("/all/apikey=:id",(req,res)=>{
     if(req.params.id!=apikey){
         res.status(404).json({"Authentication Failed! Please Please Verification Api Key":404})
     }
-    res.send(JSON.stringify(tarifler,null,1))
+    res.contentType('application/json');
+    
+    res.send(JSON.stringify({sonucSayısı:"hepsi",tarifler},null,2))
 })
 
 app.post("/add",(req,res)=>{

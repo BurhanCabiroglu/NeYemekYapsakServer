@@ -3,6 +3,7 @@
       "tarifler":[
          {
             "yemekAdi":"Mantarlı Tavuk Sote",
+            "url":"images/mantarli-tavuk-sote.jpg",
             "süresi":"20 dk",
             "kacKisi":"4",
             "arama":"tavukgöğsü, kültürmantarı, zeytinyağı,domates, yeşilbiber, kırmızıbiber, karabiber, kekik,tuz",
@@ -57,6 +58,7 @@
          },
          {
             "yemekAdi":"Karnıyarık",
+            "url":"images/karniyarik.jpg",
             "süresi":"50 dk",
             "kacKisi":"4",
             "arama":"Patlıcan, Zeytinyağı, KuruSoğan, Sarımsak, Kıyma, Domates, SivriBiber, Maydanoz, Tuz, Karabiber, Yenibahar, AyçiçekYağı, DomatesSalçası, BiberSalçası, Su",
@@ -141,6 +143,7 @@
          },
          {
             "yemekAdi":"Orman Kebabı",
+            "url":"images/orman-kebabi.jpg",
             "süresi":"120 dk",
             "kacKisi":"6",
             "arama":"Kuşbaşı, KuruSoğan, Bezelye, Patates, Havuç, KerevizSapı, Domates, BiberSalçası, DomatesSalçası, Etsuyu, Tuz, Karabiber, PulBiber, BeyazUn, AyçiçekYağı, Tereyağ",
@@ -225,6 +228,7 @@
          },
          {
             "yemekAdi":"Kuru Fasulye",
+            "url":"images/kuru-fasulye.jpg",
             "süresi":"60 dk",
             "kacKisi":"4",
             "arama":"KuruFasulye, KuruSoğan, AyçiçekYağı, KırmızıBiber, YeşilBiber, BiberSalçası, DomatesSalçası, Su, Tuz, TatlıTozKırmızıBiber",
@@ -284,6 +288,7 @@
          },
          {
             "yemekAdi":"Yeşil Mercimek Yemeği",
+            "url":"images/yesil-mercimek.jpg",
             "süresi":"45 dk",
             "kacKisi":"4",
             "arama":"KuruSoğan, ZeytinYağı, KırmızıBiber, YeşilBiber, DomatesSalçası, Su, Tuz, YeşilMercimek",
@@ -333,6 +338,7 @@
          },
          {
             "yemekAdi":"Tavuklu Pilav",
+            "url":"images/tavuklu-pilav.jpg",
             "süresi":"80 dk",
             "kacKisi":"5",
             "arama":"TavukGöğsü, Pirinç, AyçiçekYağı, Tereyağ, TavukSuyu, Tuz, Karabiber",
@@ -377,6 +383,7 @@
          },
          {
             "yemekAdi":"Bulgur Pilavı",
+            "url":"images/bulgur-pilavi.jpg",
             "süresi":"40 dk",
             "kacKisi":"4",
             "arama":"Domates, KuruSoğan, Sarımsak, ZeytinYağı, Tereyağ, Bulgur, DomatesSalçası, Tuz, Karabiber, KırmızıTozBiber, Su",
@@ -441,6 +448,7 @@
          },
          {
             "yemekAdi":"Zeytinyağlı Biber Dolması",
+            "url":"images/zeytinyagli-biber.jpg",
             "süresi":"75 dk",
             "kacKisi":"5",
             "arama":"DolmalıkBiber, KuruSoğan, ZeytinYağı, Pirinç, Su, DolmalıkFıstık, KuşÜzümü, Tuz, Nane, TozŞeker, Karabiber, Yenibahar",
@@ -510,6 +518,7 @@
          },
          {
             "yemekAdi":"Hünkar Beğendi",
+            "url":"images/hunkar-begendi.jpg",
             "süresi":"120 dk",
             "kacKisi":"4",
             "arama":"kuzubut, kurusoğan, sarımsak, zeytinyağı, domates, domatessalçası, bibersalçası, su, tuz, patlıcan, süt, beyazun, tereyağ, kaşar, karabiber",
@@ -594,6 +603,7 @@
          },
          {
             "yemekAdi":"Lazanya",
+            "url":"images/lazanya.jpg",
             "süresi":"60 dk",
             "kacKisi":"4",
             "arama":"lazanya, kıyma, ayçiçekyağı, kurusoğan, sarımsak, domates, domatessalçası, sivribiber, havuç, su, kaşar, tuz, karabiber, tereyağ, beyazun, süt,  muskatcevizi",
@@ -688,6 +698,7 @@
          },
          {
             "yemekAdi":"Bezelye Yemeği",
+            "url":"images/bezelye-yemegi.jpg",
             "süresi":"40 dk",
             "kacKisi":"4",
             "arama":"sıvıyağ, kurusoğan, bezelye, salça, tuz, havuç, patates",
@@ -732,6 +743,7 @@
          },
          {
             "yemekAdi":"Domatesli Pilav",
+            "url":"images/domatesli-pilav.jpg",
             "süresi":"50 dk",
             "kacKisi":"4",
             "arama":"domates, tereyağ, zeytinyağı, pirinç, sıcaketsuyu, limon, tozşeker, tuz",
@@ -781,6 +793,7 @@
          },
          {
             "yemekAdi":"Kadınbudu Köfte",
+            "url":"images/kadin_budu_kofte.jpg",
             "süresi":"50 dk",
             "kacKisi":"4",
             "arama":"kıyma, yumurta, kurusoğan, sarımsak, pirinç, tuz, karabiber, kimyon, beyazun, ayçiçekyağı, galetaunu, yumurta",
@@ -850,6 +863,7 @@
          },
          {
             "yemekAdi":"Tas Kebabı",
+            "url":"images/tas-kebabi.jpg",
             "süresi":"70 dk",
             "kacKisi":"4",
             "arama":"danaeti, ayçiçekyağı, tereyağ, kurusoğan, sarımsak, beyazun, havuç, patates, domatessalçası, sıcaksu, tuz, tanekarabiber",
@@ -919,6 +933,7 @@
          },
          {
             "yemekAdi":"Arnavut Ciğeri",
+            "url":"images/arnavut-cigeri.jpg",
             "süresi":"30",
             "kacKisi":"4",
             "arama":"kuzuciğeri, beyazun, tuz, karabiber, kırmızısoğan, maydanoz, sumak, sumak, kimyon, ayçiçekyağı",
@@ -973,6 +988,7 @@
          },
          {
             "yemekAdi":"Semizotu Yemeği",
+            "url":"images/semizotu-yemegi.jpg",
             "süresi":"20 dk",
             "kacKisi":"4",
             "arama":"semizotu, kurusoğan, bulgur, salça, sıvıyağ, su, tuz",
@@ -1017,6 +1033,7 @@
          },
          {
             "yemekAdi":"Terbiyeli Sulu Köfte",
+            "url":"images/terbiyeli-sulu-kofte.jpg",
             "süresi":"45",
             "kacKisi":"4",
             "arama":"kıyma, pirinç, kurusoğan, maydanoz, havuç, patates, yumurtasarısı, limonsuyu, kimyon, karabiber, tuz",
@@ -1081,6 +1098,7 @@
          },
          {
             "yemekAdi":"Bamya",
+            "url":"images/zeytinyagli_bamya.jpg",
             "süresi":"50 dk",
             "kacKisi":"4",
             "arama":"bamya, kurusoğan, domates, zeytinyağı, domatessalçası, bibersalçası, limonsuyu, sıcaksu, pulbiber, tuz, küpkesmeşeker ",
@@ -1145,6 +1163,7 @@
          },
          {
             "yemekAdi":"Barbunya",
+            "url":"images/barbunya-pilaki.jpg",
             "süresi":"60 dk",
             "kacKisi":"5",
             "arama":"barbunya, zeytinyağı, kurusoğan, sarımsak, patates, havuç, domates, sıcaksu, domatessalçası, tozşeker, tuz, maydanoz, limonsuyu",
@@ -1219,6 +1238,7 @@
          },
          {
             "yemekAdi":"Zeytinyağlı Enginar",
+            "url":"images/zeytinyagli-enginar.jpg",
             "süresi":"60 dk",
             "kacKisi":"8",
             "arama":"enginar, limonsuyu, havuç, patates, bezelye, kurusoğan, limonsuyu, su, zeytinyağı, tozşeker, tuz, dereotu",
@@ -1288,6 +1308,7 @@
          },
          {
             "yemekAdi":"Çi Börek",
+            "url":"images/cig-borek.jpg",
             "süresi":"30 dk",
             "kacKisi":"6",
             "arama":"beyazun, su, sirke, tuz, sıvıyağ, kıyma, kurusoğan, tuz, su",
@@ -1337,6 +1358,7 @@
          },
          {
             "yemekAdi":"Semizotu Borani",
+            "url":"images/semizotu-yemegi.jpg",
             "süresi":"25 dk",
             "kacKisi":"4",
             "arama":"semizotu, kurusoğan, zeytinyağı, pirinç, yoğurt, tuz",
